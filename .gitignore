@@ -1,0 +1,11 @@
+# DS_Store Files
+**/.DS_Store
+
+# PyCache
+**/__pycache__
+*.pyc
+**/*.pyc
+
+# VSCode Configuration Files
+.vscode
+.vscode/*
