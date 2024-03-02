@@ -1,8 +1,0 @@
-Your inputs are as follows: {{input_dict}}
-
-Your overall objective is given as follows: {{objective}}
-
-Your task is to output a sequence of optimal actions for the robot to execute. You are only allowed to use the information that you are provided.
-DO NOT write any additional import statements. DO NOT import any libraries. DO NOT write anything else as output other than valid python code using the functions that I have defined for you above.
-Please insert helpful print statements to document the progress towards the objective.
-Aside from valid Python code representing the actions to take, DO NOT output anything else.
